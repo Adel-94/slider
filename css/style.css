@@ -1,0 +1,30 @@
+body { margin:0px;}
+.header {
+    width: 100%;
+   
+    
+}
+
+.icon1 {
+
+position: absolute;
+bottom:50%;
+right: 0px;
+font-size: 70px;
+color: darkblue;
+
+
+}
+
+.icon2 {
+position: absolute;
+left: 0px;
+bottom:50%;
+font-size: 70px;
+color: darkblue;
+}
+
+.header{
+    position: relative;
+}
+
